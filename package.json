@@ -7,10 +7,12 @@
     "webpack": "^4.31.0"
   },
   "devDependencies": {
-    "webpack-cli": "^3.3.2"
+    "webpack-cli": "^3.3.2",
+    "webpack-dev-server": "^3.3.1"
   },
   "scripts": {
-    "start":"webpack"
+    "start": "webpack",
+    "server": "webpack-dev-server --open"
   },
   "author": "xingpc",
   "license": "ISC"
