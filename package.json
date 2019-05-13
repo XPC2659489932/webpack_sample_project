@@ -1,0 +1,17 @@
+{
+  "name": "webpack_sample_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "webpack": "^4.31.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.2"
+  },
+  "scripts": {
+    "start":"webpack"
+  },
+  "author": "xingpc",
+  "license": "ISC"
+}
